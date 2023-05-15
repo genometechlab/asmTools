@@ -36,7 +36,7 @@ usage: Contigous_alignment.py [-h] --output OUTPUT [--supplementary_output SUPPL
                               [--max_softclip MAX_SOFTCLIP] [--max_hardclip MAX_HARDCLIP]<br>
 <br>
 optional arguments:<br>
-  -h, --help            &emsp;&emsp;&emsp;show this help message and exit<br>
+  -h, --help<br>            &emsp;&emsp;&emsp;show this help message and exit<br>
   --output OUTPUT, -o OUTPUT<br>
                         &emsp;&emsp;&emsp;Path to desitnation output bed file<br>
   --supplementary_output SUPPLEMENTARY_OUTPUT, -so SUPPLEMENTARY_OUTPUT<br>
