@@ -3,11 +3,11 @@
 - asmToRefViz.py
 - Contigous_alignment.py
 ### asmToRefViz.py
-This script produces a visualization of alignments from a sam, bed, or paf file to the associated reference.
-Input: alignment file (.sam, .bed, .paf), reference file (.fa or .fai)
-Output: .png file showing alignments
+This script produces a visualization of alignments from a sam, bed, or paf file to the associated reference.<br>
+Input: alignment file (.sam, .bed, .paf), reference file (.fa or .fai)<br>
+Output: .png file showing alignments<br>
 
 ### Contigous_alignments.py
-This script filters reads based on a variety of contiguity measures
-Input: alignment file (.sam)
-Output: filtered alignment file (.sam)
+This script filters reads based on a variety of contiguity measures<br>
+Input: alignment file (.sam)<br>
+Output: filtered alignment file (.sam)<br>
